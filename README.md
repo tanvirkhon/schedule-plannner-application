@@ -10,7 +10,7 @@ It list the current date on the top of the page so the user knows what work day 
 
 ![image](https://user-images.githubusercontent.com/119143763/213087424-42751693-ed8e-4c42-9015-b6ab53c3004f.png)
 
-It allows the user to add text to each timeblock and safe the data to local sotrage so the user can come back to the application without losing any of their data
+It allows the user to add text to each timeblock and save the data to local sotrage so the user can come back to the application without losing any of their data
 ![image](https://user-images.githubusercontent.com/119143763/213087819-3ebae17a-c9a7-433b-8189-edb387a6c13b.png)
 
 If you would like to use the schedule planner please go to: https://tanvirkhon.github.io/schedule-plannner-application
