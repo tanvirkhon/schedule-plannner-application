@@ -6,7 +6,7 @@ This Schedule Planner application was created using mainly Jquery and the dayjs 
 
 The application has the following features: 
 
-It list the current date on the top of the page so the user knows what work day they are one
+It lists the current date on the top of the page so the user knows what work day they are one
 
 ![image](https://user-images.githubusercontent.com/119143763/213087424-42751693-ed8e-4c42-9015-b6ab53c3004f.png)
 
